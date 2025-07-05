@@ -182,5 +182,3 @@ This project is proprietary under Aptiverse Labs. Licensing options for collabor
 > The Aptiverse Worker is the engine that powers real-time educational insights, smart recommendations, and scalable AI processing across South Africa's next-generation learning platform.
 
 ---
-
-Would you like this in `.md` file format or Docker-compose integration with RabbitMQ for local testing as well?
